@@ -1,0 +1,11 @@
+ #!/bin/bash
+
+  date
+
+  USER=$(whoami)
+
+
+  echo "Hello,$USER!"
+  echo "current location is:$(pwd)"
+
+
